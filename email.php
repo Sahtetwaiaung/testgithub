@@ -1,1 +1,2 @@
-sending email
+<?php
+echo "sending email";
